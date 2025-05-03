@@ -1,6 +1,6 @@
 Work Trial Task: Best-Level, Multi-Level, Integrated OFI, and Cross-Asset OFI
 
-This notebook addresses all aspects of the internship task, including:
+The notebook in this repo addresses all aspects of the internship task, including:
 
 - Best-Level OFI  
 - Multi-Level OFI (top 10 LOB levels)  
