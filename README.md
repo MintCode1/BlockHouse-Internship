@@ -11,5 +11,4 @@ Each OFI feature is computed per timestamp. Data used: first_25000_rows.csv
 Additionally, I have included some plots:
 
 Integrated OFI signal (how OFI evolves over time)
-
 Integrated OFI vs. simulated returns (how it correlates with returns-like movement)
